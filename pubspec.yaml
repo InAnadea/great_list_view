@@ -6,8 +6,8 @@ homepage: https://github.com/DavideBelsole/great_list_view
 repository: https://github.com/DavideBelsole/great_list_view
 
 environment:
-  sdk: ">=2.14.0 <3.0.0"
-  flutter: ">=2.0.6"
+  sdk: ">=2.17.6 <3.0.0"
+  flutter: ">=3.3.3"
 
 dependencies:
   collection: any
